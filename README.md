@@ -2,6 +2,14 @@
 
 - [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+### O que é um flex-container;
+
+Flex container é o elemento que recebe grande parte das propriedades de posicionamento para suas tags filhas;
+
+### As propriedades de posicionamento justify-content e align-items;
+
+**`justify-content`** distribui o espaço restante do flex container entre suas tags filhas e **`align-items`** alinha verticalmente as tags filhas, ou seja, são propriedades de posicionamento horizontal e vertical respectivamente.
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.

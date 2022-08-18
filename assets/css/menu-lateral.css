@@ -1,0 +1,5 @@
+.menu__lateral {
+  display: flex;
+  flex-wrap: wrap;
+
+}

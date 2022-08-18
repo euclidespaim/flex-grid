@@ -1,8 +1,14 @@
 @import url('cabecalho.css');
+@import url('menu-lateral.css');
+
+@font-face {
+  font-family: 'icones';
+  src: url(../font/icones.ttf);
+}
 
 body {
   background-color: #1D232A;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'icones', sans-serif;
   color: #fff;
 
 }
