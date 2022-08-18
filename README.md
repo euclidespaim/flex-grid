@@ -1,3 +1,7 @@
+# O que aprendemos 
+
+- [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
