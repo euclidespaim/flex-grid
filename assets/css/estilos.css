@@ -6,6 +6,21 @@
   src: url(../font/icones.ttf);
 }
 
+:root {
+
+  --corpo: #1D232A;
+  --cabecalho: #1D232A;
+  --cabecalho-mobile: #15191C;
+  --menu-lateral: #15191C;
+  --cartao: #2C343A;
+  --fonte-principal: #FFFFFF;
+  --fonte-alternativa: #95999C;
+  --links: #0480DC;
+  --botão: #0480DC;
+  --sombras: 0px 4px 4px rgba(0, 0, 0, 0.16);
+
+}
+
 body {
   background-color: #1D232A;
   font-family: 'Open Sans', 'icones', sans-serif;

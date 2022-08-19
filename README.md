@@ -1,6 +1,6 @@
 # O que aprendemos 
 
-- [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+Este projeto de estudos visa desenvolver as habilidades no uso das propriedades CSS para Flexbox e Grid.
 
 ### O que é um flex-container;
 
@@ -9,6 +9,18 @@ Flex container é o elemento que recebe grande parte das propriedades de posicio
 ### As propriedades de posicionamento justify-content e align-items;
 
 **`justify-content`** distribui o espaço restante do flex container entre suas tags filhas e **`align-items`** alinha verticalmente as tags filhas, ou seja, são propriedades de posicionamento horizontal e vertical respectivamente.
+
+## Para saber mais
+
+- [FlexBox Froggy](https://flexboxfroggy.com/)
+
+- [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+<hr/>
+<hr/>
+<br/>
+<br/>
+<br/>
 
 # Guia de estilos
 
