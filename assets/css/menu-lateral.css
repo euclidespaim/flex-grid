@@ -8,6 +8,11 @@
   height: 100vh;
 }
 
+.menu__lateral--ativo {
+  position: absolute;
+  left: -100vw;
+}
+
 .menu__lateral--logo {
   width: 118px;
   align-self: center;
