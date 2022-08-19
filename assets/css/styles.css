@@ -1,6 +1,7 @@
 @import url('cabecalho.css');
 @import url('menu-lateral.css');
 @import url('principal.css');
+@import url('secao.css');
 
 @font-face {
   font-family: 'icones';

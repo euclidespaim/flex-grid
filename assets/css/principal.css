@@ -5,17 +5,24 @@
 .titulo__pagina {
   font-size: 1.5rem;
   font-weight: 700;
+  margin-bottom: 16px;
 }
 .cartao{
+  display: grid;
+  gap: 16px;
   width: 100%;  
   border-radius: 15px;
   overflow: hidden;
   background-color: var(--cartao);
 }
+.cartao__destaque {
+  margin-bottom: 16px;
+}
 .cartao__conteudo {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: auto 1fr;
   padding: 16px;
+  gap: 10px;
 }
 .cartao__titulo {
   font-size: 1.2rem;
@@ -40,6 +47,7 @@
 .cartao__botao {
   display: flex;
   justify-content: center;
+  justify-self: flex-end;
   align-items: center;
   background-color: var(--botao);
   width: 40px;
