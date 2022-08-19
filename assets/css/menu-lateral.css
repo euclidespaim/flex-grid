@@ -6,11 +6,15 @@
   background-color: var(--menu-lateral);
   width: 75vw;
   height: 100vh;
+  
+  position: absolute;
+  left: -100vw;
+  transition: 1s;
 }
 
 .menu__lateral--ativo {
-  position: absolute;
-  left: -100vw;
+  left: 0;
+  transition: 1s;
 }
 
 .menu__lateral--logo {

@@ -5,10 +5,28 @@ Este projeto de estudos visa desenvolver as habilidades no uso das propriedades 
 ### O que é um flex-container;
 
 Flex container é o elemento que recebe grande parte das propriedades de posicionamento para suas tags filhas;
+As limitações de trabalhar com flexbox;
+- A principal delas é trabalhar com dois eixos ao mesmo tempo, eixo vertical e horizontal.
 
 ### As propriedades de posicionamento justify-content e align-items;
 
 **`justify-content`** distribui o espaço restante do flex container entre suas tags filhas e **`align-items`** alinha verticalmente as tags filhas, ou seja, são propriedades de posicionamento horizontal e vertical respectivamente.
+
+### Trabalhando com Grid
+
+O funcionamento básico do grid;
+- A ideia de grid container é bem parecida com flex container, mas no grid container o fluxo é vertical e também ganhamos acesso a outras propriedades.
+
+Propriedades para criar linhas e colunas: grid-template-rows e grid-template-columns;
+
+- Os valores que essas propriedades recebem são os tamanhos das colunas/linhas. Ex: para 3 colunas de 30px a propriedade se escreve: grid-template-columns: 30px 30px 30px.
+
+Nova unidade de medida fr;
+- É a unidade de medida para trabalhar com proporções de uma maneira mais simples do que porcentagem. Principalmente quando a porcentagem é uma dízima periódica.
+
+Mescla de linhas e colunas com as propriedades grid-columns: span n e grid-rows: span n;
+
+- É o conceito de “mescla de células”. Serve para dizer quantas colunas/linhas um elemento ocupa dentro do grid container.
 
 ## Para saber mais
 
